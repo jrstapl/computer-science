@@ -25,11 +25,11 @@ The core classes are meant to cover basic computer science theory and practical 
 ## Core Math
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
-|Calculus 1|Clemson|||
-|Calculus 2|Clemson|||
-|Calculus 3|Clemson|||
-|Differential Equations and Intro to Linear Algebra|Clemson|||
-|Intoduction to Statistics|Clemson|||
+|Math 1060: Calculus of One Variable|[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/6)|Calculus of single variable derivatives and integration|NA|
+|Math 1080: Calculus of One Variable II|[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/8)|Advanced integration and differentiation of multiple variables and series analysis|NA|
+|Math 2060: Calculus of Several Variables |[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/21)|3-Dimensional Calculus, vectors and coordinate systems|NA|
+|Differential Equations and Intro to Linear Algebra|Clemson||NA|
+|Math 2300: Statistica Methods 1 |[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/226)|Introduction to statistical concepts and tests|NA|
 
 ## CS Tools
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
@@ -48,7 +48,7 @@ The core classes are meant to cover basic computer science theory and practical 
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
 |Algorithms and Data Structures for beginners|[neetcode](https://neetcode.io/courses/dsa-for-beginners/0)|~10 hours|Introduction to common data structures, sorting algorithms and problem solving in programming|Varied (C++ primary)|
-|||||
+|CSC 655: Introduction to Numerical Methods|[wfu](https://users.wfu.edu/ballard/teaching/CSC355_2024_Spring/syllabus.pdf)|Theoretical concepts and practical applications of numerical theory to concrete applications|MATLAB|
 |||||
 
 ## Core Security
@@ -72,7 +72,7 @@ The core classes are meant to cover basic computer science theory and practical 
 |||||
 
 
-# Advanced CS
+# Advanced CS  
 Courses in the advanced category are meant to promote specialization of a particular topic. As this section is meant to be the `electives` of a traditional degree, the mapping of courses here is somewhat loose, as I have deviated from the original intent to organize my courses into the pre-defined [categories](/README.md#curriculum). Courses here tend to focus on compound concepts that incorporate multiple languages or technologies (e.g. databases, full-stack development, testing, version control, etc.).
 
 ## Machine Learning and Data Science
@@ -81,13 +81,14 @@ Courses in the advanced category are meant to promote specialization of a partic
 |Beginner Machine Learning in Python|udemy (no longer listed)|~3 hours|Basic introduction to types of machine learning in python including regression, classification and clustering|python|
 |Python A-Z: Python for Data Science|[udemy](https://www.udemy.com/course/python-coding/)|~4 hours|Introduces basics of python with focus on structures used for data analysis and visualization|python|
 |R Programming A-Z: R For Data Science|[udemy](https://www.udemy.com/course/r-programming/)|~4 hours|Introduces basics of R with focus on structures used for data analysis and visualization|R|
+|R Programming: Advanced Analytics in R for Data Science|[udemy](https://www.udemy.com/course/r-analytics/)|~6 hours|R programming concepts for pre-processing data, advanced structures and functions for mutating data|R|
 
 ## Advanced Applications
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
-|Command Line Applications in Go|[dreamsofcode](https://dreamsofcode.io/courses/cli-apps-go)|~30 hours|Introductory course to Go, which expands to cover ideas behind the design of Go applications, networking in Go and the development process including unit, integration and end to end testing, version control and deployment |Go, git|
+|Command Line Applications in Go|[dreamsofcode](https://dreamsofcode.io/courses/cli-apps-go)|~30 hours|Introductory course to Go, which expands to cover ideas behind the design of Go applications, networking in Go and the development process including unit, integration and end to end testing, version control and deployment see [GoZip](https://github.com/jrstapl/GoZip) and [go-builder](https://github.com/jrstapl/go-builder)|Go, git|
 |Network Applications in C|[lowlevelacademy](https://lowlevel.academy/courses/networkcode)|~3 hours|Introduction to the underlying fundamentals of networked applications using TCP/IP and socket programming|C|
-|Multi Threaded C Applications|[lowlevelacademy](https://lowlevel.academy/courses/threads)|~3 hours|Introduction to `pthreads` API on posix systems with emphasis on creating safe, multithreaded applications through locks, mutexs and semaphores |C|
+|Multi Threaded C Applications|[lowlevelacademy](https://lowlevel.academy/courses/threads)|~3 hours|Introduction to `pthreads` API on posix systems with emphasis on creating safe, multithreaded applications through locks, mutexs and semaphores (see [ThreadPool](https://github.com/jrstapl/ThreadPool)) |C|
 |HTTP from scratch|lowlevelacademy (Unlisted)|~4 hours|Learn the basics of HTTP protocols in C by building a basic HTTP server|C|
 
 

@@ -25,11 +25,12 @@ The core classes are meant to cover basic computer science theory and practical 
 ## Core Math
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
-|Math 1060: Calculus of One Variable|[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/6)|4|Calculus of single variable derivatives and integration|NA|
-|Math 1080: Calculus of One Variable II|[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/8)|4|Advanced integration and differentiation of multiple variables and series analysis|NA|
-|Math 2060: Calculus of Several Variables |[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/21)|4|3-Dimensional Calculus, vectors and coordinate systems|NA|
-|Differential Equations and Intro to Linear Algebra|[Clemson](https://catalog.clemson.edu/preview_course_nopop.php?catoid=16&coid=67273)|4|Introduction to ordinary differential equations and introductory linear algebra.|NA|
-|Math 2300: Statistical Methods 1 |[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/226)|3|Introduction to statistical concepts and tests|NA|
+|Math 1060: Calculus of One Variable|[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/6)|4 credits|Calculus of single variable derivatives and integration|NA|
+|Math 1080: Calculus of One Variable II|[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/8)|4 credits|Advanced integration and differentiation of multiple variables and series analysis|NA|
+|Math 2060: Calculus of Several Variables |[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/21)|4 credits|3-Dimensional Calculus, vectors and coordinate systems|NA|
+|Differential Equations and Intro to Linear Algebra|[Clemson](https://catalog.clemson.edu/preview_course_nopop.php?catoid=16&coid=67273)|4 credits|Introduction to ordinary differential equations and introductory linear algebra.|NA|
+|Math 2300: Statistical Methods 1 |[Clemson](https://mthsc.clemson.edu/ug_course_pages/view_course_page/226)|3 credits|Introduction to statistical concepts and tests|NA|
+|Deep Learning Prerequisites: Linear Regression in Python|[udemy](https://www.udemy.com/course/data-science-linear-regression-in-python/)|~6 hours|Introduction to the theory, application and interpretation of linear regression and it's utility in problem solving.|`python`|
 
 ## CS Tools
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   

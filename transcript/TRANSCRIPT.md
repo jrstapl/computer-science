@@ -14,6 +14,7 @@ The core classes are meant to cover basic computer science theory and practical 
 |Automate the Boring Stuff with Python Programming|[udemy](https://www.udemy.com/course/automate/)|~10 hours|Practical course to introduce python for non-programmers with basic exercises and projects.|`python`|
 
 
+
 ## Core CS
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
@@ -22,6 +23,7 @@ The core classes are meant to cover basic computer science theory and practical 
 |Zero2Hero C Programming|[lowlevelacademy](https://lowlevel.academy/courses/zero2hero)|~5 hours|Introduction to the C language with emphasis on self-exploration to complete exercises and course project|`C`|
 |Python for Beginners|[neetcode](https://neetcode.io/)|~1 hour|Basic syntax and structure of Python|`python`|
 |Python OOP|[neetcode](https://neetcode.io/)|~1 hour|Introduction to object oriented programming and patterns in python|`python`|  
+|A Programmer's Guide To Computer Science (Vol I & II)|[book](http://www.whatwilliamsaid.com/books/)|5 hours|An introduction to the theoretical components of computer science covering basic datastructures, algorithms and analysis techniques|NA|
 
 ## Core Math
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
@@ -36,7 +38,7 @@ The core classes are meant to cover basic computer science theory and practical 
 ## CS Tools
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
-|||||
+|The Pragmatic Programmer (Book)|[book](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)|~10 hours|This book describes the fundamental techniques used in programming to develop and maintain quality software|NA|
 
 
 ## Core Systems
@@ -45,34 +47,28 @@ The core classes are meant to cover basic computer science theory and practical 
 |Introduction to C Development Environment for Raspberry PICO|[udemy](https://www.udemy.com/course/introduction-to-c-development-environment-for-raspberry-pico/)|~3 hours| Introduction to programming on the Raspberry Pi PICO with introduction the SDK, device flashing and basic deployment| `C` |
 |BIO 3700: Bioinstrumentation and Bioimaging|[Clemson](https://tgharve.people.clemson.edu/documents/BioE%203700_S19_Syllabus.pdf)|3 credits|`Arduino C`|
 |ARM Assembly 4 Dummies|[lowlevelacademy](https://lowlevel.academy/courses/armassembly)|~3 hours|Introduction to fundamental operations in arm assembly. See [minimal shell project](https://github.com/jrstapl/shell)|`ARM Assembly`|
-
+|Operating Systems: Three Easy Pieces|[book](https://pages.cs.wisc.edu/~remzi/OSTEP/)|30 hours|Covering the main components of operating systems including virtualization of the address space, timesharing & context switching, concurrency primatives, and disk storage with code examples.|`C`|
 
 ## Core Theory
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
 |Algorithms and Data Structures for beginners|[neetcode](https://neetcode.io/courses/dsa-for-beginners/0)|~10 hours|Introduction to common data structures, sorting algorithms and problem solving in programming|Varied (C++ primary)|
 |CSC 655: Introduction to Numerical Methods|[wfu](https://users.wfu.edu/ballard/teaching/CSC355_2024_Spring/syllabus.pdf)|Theoretical concepts and practical applications of numerical theory to concrete applications|`MATLAB`|
-|||||
+|Grokking Algorithms|[book](https://www.manning.com/books/grokking-algorithms)|10 hours|A light introduction to the most common datastructures and algorithms used in programming, with introductions to complexity analysis and an overview of advanced programming topics|`python`|
 
 ## Core Security
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
-|||||
-|||||
-|||||
 
 ## Core applications
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
 |Python REST APIs with Flask, Docker MongoDB and AWS DevOps|[udemy](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/)|~10 hours| Introduction for creating APIs following the REST format, and linking programs with databases to be deployed through Docker and on hosting services.|`python`|
-
+|Designing Data-Intensive Applications|[book](https://martin.kleppmann.com/2026/03/24/designing-data-intensive-applications-2e.html)|30 hours|Covering the basics of data transfer and processing from ensuring durable writes on one machine, to distributed processing & replication, the different styles of distributed leadership, batch & stream processing, and protocols to prevent data loss over a network|NA|
 
 ## Core Ethics
 | Name | Link | Estimated Total Time Spent (Hours) | Brief Description | Language |   
 |---|---|---|---|---|
-|||||
-|||||
-|||||
 
 
 # Advanced CS  
